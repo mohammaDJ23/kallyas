@@ -1,0 +1,5 @@
+.top-left-50-19 {
+  left: 20%;
+  top: 50%;
+  transform: translateY(-50%);
+}

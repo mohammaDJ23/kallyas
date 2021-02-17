@@ -1,0 +1,15 @@
+.b-default {
+  border-radius: 21px;
+}
+
+.b-default:hover {
+  background-color: #cf1622;
+}
+
+.b-shadow-red {
+  box-shadow: 0 15px 90px 3px #cf1622;
+}
+
+.b-shadow-black {
+  box-shadow: 0 15px 90px 3px #000000;
+}

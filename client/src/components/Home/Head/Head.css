@@ -1,0 +1,7 @@
+.w-370 {
+  width: 370px;
+}
+
+.slick-slider > div:first-child {
+  height: 300px;
+}

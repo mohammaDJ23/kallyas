@@ -1,0 +1,23 @@
+.top-right-0 {
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.ml-80 {
+  margin-left: 80px;
+}
+
+.i-default {
+  border: none;
+  background-color: unset;
+  border-bottom-color: #f10e1f;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  width: 250px;
+  font-size: 12px;
+}
+
+input::placeholder {
+  font-size: 12px;
+}
